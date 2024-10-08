@@ -81,6 +81,7 @@
 .container aside{
     grid-column: 2;
     padding: 20px;
+    padding-left: 50px;
 }
 
 .container aside #About{
